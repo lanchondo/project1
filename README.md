@@ -2,7 +2,7 @@ Team Name: Oh, Snap!
 
 Team Members:
 
-Lauryn
-Louis
-Joshua
+Lauryn,
+Louis,
+Joshua,
 Katy
